@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,python,cpp,c,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,bash" />
+    <img src="https://skillicons.dev/icons?i=go,python,cpp,c,docker, mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,bash, postgresql" />
 </div>
 
 <br/>
